@@ -1,0 +1,7 @@
+- 👋 Meu nome é Victor Hugo , sou desenvolvedor de software com interesse e foco em Back-End, e cursando Análise e Desenvolvimento de Sistemas no IFMS;
+- 
+- 👾 Linguagens: JavaScript, Java, HTML, CSS, C++;
+-
+- 🤖 Ferramentas: Visual Studio Code, Spring Tool Suite 4, Eclipse;
+- 
+- 📫 Entre em contato pelo meu email victorbenevides2002@gmail.com;
