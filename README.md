@@ -1,4 +1,4 @@
-- 👋 Meu nome é Victor Hugo , sou desenvolvedor de software com interesse e foco em Back-End, e cursando Análise e Desenvolvimento de Sistemas no IFMS;
+- 👋 Meu nome é Victor Hugo , sou desenvolvedor de software com interesse e foco em Back-End;
 - 
 - 👾 Linguagens: JavaScript, Java, HTML, CSS, C++;
 -
