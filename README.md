@@ -1,4 +1,4 @@
-- 👋 Meu nome é Victor Hugo , sou desenvolvedor de software com interesse e foco em Back-End;
+- 👋 Meu nome é Victor Hugo , sou desenvolvedor de web com interesse e foco na área FullStack;
 - 
 - 👾 Linguagens: JavaScript, Java, Node.js, HTML, CSS;
 -
